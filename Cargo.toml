@@ -1,8 +1,0 @@
-[package]
-name = "Derek_Banas_Rust_Tutorial_Full_Course"
-version = "0.1.0"
-edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
